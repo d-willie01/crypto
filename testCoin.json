@@ -1,0 +1,17 @@
+{
+    "name": "GoonTooSoon",
+    "symbol": "GTS",
+    "description": "A coin to remember a man, gooned to soon",
+    "image": "https://example.com/my-token-image.png",
+    "attributes": [],
+    "properties": {
+      "category": "token",
+      "creators": [
+        {
+          "address": "",
+          "share": 100
+        }
+      ]
+    }
+  }
+  
